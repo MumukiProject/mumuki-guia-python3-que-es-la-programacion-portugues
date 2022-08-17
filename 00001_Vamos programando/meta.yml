@@ -10,24 +10,24 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La contabilidad de una empresa.
+  value: A contabilidade de uma empresa.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La reserva de un turno.
+  value: O agendamento de um horário.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Corregir un examen.
+  value: Corrigir uma prova.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: La creación de un videojuego.
+  value: A criação de um videogame.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Realizar videollamadas.
+  value: Realizar videochamadas.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Reconocer imágenes.
+  value: Reconhecer imagens.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Conducir un robot en Marte.
+  value: Dirigir um robô em Marte.
   checked: true
 name: Vamos programando

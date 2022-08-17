@@ -1,7 +1,7 @@
-Aunque la programación parece una ciencia exacta, **programar es el arte de hacer que una computadora resuelva nuestros problemas**.
+Embora a programação pareça uma ciência exata, **programar é a arte de fazer que um computador resolva nossos problemas**.
 
-Momento... ¿arte? :scream: ¡Sí! Hay muchas formas de resolver un problema y encontrarlas es un proceso creativo :bulb:. El resultado de este proceso es un _programa_: una descripción de la solución al problema que puede ser _ejecutada_ por una computadora.
+Momento... ¿arte? :scream: Sim! Há muitas maneiras de resolver um problema e encontrar essas formas é um processo criativo :bulb:. O resultado desse processo é um _programa_: uma descrição da solução ao problema que pode ser _executada_ por um computador.
 
-Saber programar nos da un gran poder: en lugar de hacer tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas** (por suerte, la computadora no se aburre :wink:).
+Saber programar nos dá um grande poder: em vez de realizar tarefas  repetitivas e entediantes, **usaremos nossos conhecimentos e imaginação para que elas sejam automatizadas** (por sorte, o computador não fica entediado :wink:).
 
-> ¿Cuáles de estos problemas crees que se pueden resolver con programación?
+> Quais desses problemas abaixo você acha que podem ser resolvidos utilizando a programação?
