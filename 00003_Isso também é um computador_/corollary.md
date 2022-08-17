@@ -1,0 +1,1 @@
+Perfeito! :ok_hand: Embora todos estes dispositivos sejam computadores eles não têm os mesmos objetivos nem servem para resolver os mesmos problemas.

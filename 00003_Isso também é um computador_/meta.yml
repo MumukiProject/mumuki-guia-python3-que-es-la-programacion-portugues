@@ -10,21 +10,21 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Licuadora antigua.
+  value: Liquidificador antigo.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Consola de videojuegos.
+  value: Console de videogames.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Navegador GPS.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Teléfono celular.
+  value: Telefone celular.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Una mesa de madera.
+  value: Uma mesa de madeira.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Cajero automático.
+  value: Caixa eletrônico.
   checked: true
-name: "¿Esto también es una computadora?"
+name: Isso também é um computador?
