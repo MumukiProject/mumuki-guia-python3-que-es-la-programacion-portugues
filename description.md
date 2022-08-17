@@ -1,4 +1,4 @@
-Te damos la bienvenida al mundo de la programación :grin:. En esta lección vamos a dar respuesta a _¿Qué es la programación?_ y  otras preguntas que quizás no sabías que tenías. :open_hands:
+Te damos as boas vindas ao mundo da programação :grin:. Nessa lição vamos dar a  resposta a _O que é a programação?_ e  outras perguntas que talvez você não sabia que tinha. :open_hands:
 
-¡Comencemos! :muscle:
+Vamos começar! :muscle:
 
