@@ -10,18 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: ola k asé?
+  value: olá q ta fzndo?
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hola, ¿qué hacés?
+  value: olá, o que você está fazendo?
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "?hola qué hacés¿"
+  value: olá o que você está fazendo¿
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hola, que? haces
+  value: olá, o que? está fazendo
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: hoal, ¿qéu haecs?
+  value: oál, ¿qeu etsá fanzedno?
   checked: false
-name: "¿Qué decís?"
+name: O que você acha?
