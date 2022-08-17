@@ -1,0 +1,1 @@
+Exato! Nenhuma dessas opções podem ser resolvidas utilizando a programação. A programação pode nos ajudar com aqueles problemas com aqueles problemas que podem ser representados em termos de uma sequência conhecida e organizada de passos.  :clipboard:
