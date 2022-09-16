@@ -1,8 +1,8 @@
-- name: Los pasos se ordenaron correctamente
+- name: As etapas foram ordenadas corretamente
   keys:
     primer_paso: 
-      equal: "Empezá con un círculo. Este será el centro de la flor."
+      equal: "Comece com um círculo. Este será o centro da flor."
     segundo_paso: 
-      equal: "Alrededor del centro dibujá círculos que tengan igual tamaño pegados entre ellos. Estos serán los pétalos."
+      equal: "Ao redor do centro desenhe círculos em tamanhos iguais colados uns aos outros. Estas serão as pétalas."
     tercer_paso: 
-      equal: "Dibujá el tallo pegado a uno de los pétalos."
+      equal: "Desenhe o caule preso a uma das pétalas."
