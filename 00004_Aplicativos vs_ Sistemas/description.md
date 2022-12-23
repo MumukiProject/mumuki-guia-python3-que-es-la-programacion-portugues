@@ -2,9 +2,8 @@ _Aplicativos vs. Sistemas? Não, não estamos falando de uma nova superproduçã
 
 Embora muitas vezes utilizamos o termo aplicativo para falar tanto de uma calculadora :heavy_division_sign: como de uma rede social :busts_in_silhouette:, não estamos falando da mesma coisa:
 
-*  os aplicativos são  programas habitualmente destinados a ser utilizados por apenas uma  única pessoa e resolvem uma tarefa simples e específica;
-* pelo contrário, os sistemas são compostos por muitos programas e aplicativos interligados, que são operados por pessoas diferentes e podem resolver múltiplos problemas incluindo mais complexos.
+* os aplicativos são  programas habitualmente destinados a serem utilizados por apenas uma pessoa e resolvem uma tarefa simples e específica;
+* pelo contrário, os sistemas são compostos por muitos programas e aplicativos interligados, que são operados por pessoas diferentes e podem resolver múltiplos problemas, inclusive mais complexos.
 
-> Quais dos seguintes você acha que são sistemas?
-> Se você não conhece algum destes nomes, pode fazer um click neles.  
-
+> Quais dos seguintes exemplos você acha que são sistemas?
+> Se você não conhecer algum desses nomes, pode dar um click neles para saber o que são.
