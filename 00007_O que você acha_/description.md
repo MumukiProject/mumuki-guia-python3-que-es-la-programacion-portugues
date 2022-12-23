@@ -1,3 +1,3 @@
-Quando nós humanos nos comunicamos devemos seguir uma série de sequências mas provavelmente entendemos um texto que tem falhas de ortografia ou uma frase com verbos mal conjugados. :upside_down:
+Quando nós seres humanos desejamos nos comunicar, devemos seguir uma série de regras de linguagem, porém conseguimos entender um texto ou uma frase ainda que tenham erros de ortografia ou de conjugação verbal. :upside_down:
 
-> Apesar que essas frases têm a mesma intenção, qual está corretamente escrita?
+> Apesar das frases seguintes terem a mesma intenção de comunicação, qual delas está escrita de acordo com a norma da língua portuguesa?
