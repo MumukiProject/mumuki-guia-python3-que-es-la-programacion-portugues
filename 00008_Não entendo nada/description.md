@@ -1,4 +1,4 @@
-Recentemente vimos que as orações, frases ou parágrafos escritos em uma linguagem natural deveriam obedecer certas regras sintáticas. Mas o que acontece quando escrevemos código, ou seja, ordens para um computador escritos em uma linguagem formal? :thinking: Também precisamos respeitar as regras dele!
+No exercício anterior vimos que as orações, frases ou parágrafos escritos em uma linguagem natural deveriam obedecer certas regras sintáticas. E quando escrevemos um código, ou seja, ordens para um computador escritos em uma linguagem formal? :thinking: Também precisamos respeitar as regras da linguagem de programação!
 
 Por exemplo o seguinte código:
  
@@ -14,21 +14,21 @@ Def Ola_mundo():
 	Print('olá mundo')
 ```
 
-o esto:
+nem isto:
 
 ```python
 def ola_mundo[]:
 	print('olá mundo')
 ```
 
-nem isso:
+ou isto:
 
 ```python
 def ola_mundo():
 print('olá mundo')
 ```
 
-Se não respeitamos estes princípios, aos quais chamaremos _sintaxe_, o computador não poderá interpretar nossa intenção e isto levará a que nossos programas não funcionem como havíamos planejado. :thumbsdown:
+Se não respeitamos estes princípios, os quais chamaremos de _sintaxe_, o computador não poderá interpretar nossa intenção e isto levará a que nossos programas não funcionem como havíamos planejado. :thumbsdown:
 
 > Selecione qual parte do código é idêntica a:
 >
