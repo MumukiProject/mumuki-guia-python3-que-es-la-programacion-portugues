@@ -1,1 +1,1 @@
-Sim! Todos estes problemas podem ser resolvidos com a programação. Também agendar uma reunião, conhecer nosso passado por meio dos nossos genes, ouvir nossa banda favorita e tantos outros mais. :exploding_head:
+Sim! Todos esses problemas podem ser resolvidos com a programação, como também agendar uma reunião, conhecer nosso passado por meio dos nossos genes, ouvir nossa banda favorita e tantos outros mais. :exploding_head:
