@@ -1,6 +1,6 @@
-OK, mas por que existem diferentes linguagens se todas servem para dar ordens a um computador? :thinking: Pelas mesmas razões culturais, geográficas e históricas de existirem muitos idiomas (e todos servem para que possamos nos comunicar com outras pessoas, claro :stuck_out_tongue:), em todo o  mundo e na história da computação têm surgido diferentes maneiras de dizer a mesma coisa. :speaking_head:
+OK, mas por que existem diferentes linguagens de programação se todas servem para dar ordens a um computador? :thinking: Pelas mesmas razões culturais, geográficas e históricas de existirem muitos idiomas (e todos servem para que possamos nos comunicar com outras pessoas, claro :stuck_out_tongue:), em todo o mundo e na história da computação surgiram e ainda surgem diferentes maneiras de dizer a mesma coisa. :speaking_head:
 
-Além disso, enquanto algumas linguagens servem para qualquer tipo de problema (linguagens de _propósito geral), outras servem para fazer coisas específicas. E como se fosse pouco, cada um colhe fans :guitar: e tem sua própria comunidade. :loudspeaker:
+Além disso, enquanto algumas linguagens servem para qualquer tipo de problema (linguagens de _propósito geral_), outras servem para fazer coisas específicas. E como se isso não bastasse, cada um colhe fans :guitar: e tem sua própria comunidade. :loudspeaker:
 
 Vamos ver exemplos de código que fazem o mesmo em 3 linguagens de programação diferentes.
 
