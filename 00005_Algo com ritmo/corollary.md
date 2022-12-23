@@ -1,2 +1,1 @@
-Exato!:raised_hands: Embora seja um termo associado a programação, os algoritmos não são uma exclusividade dela. :eyes:
-
+Exato!:raised_hands: Embora estejam associadoso à programação, os algoritmos não são uma exclusividade dela. :eyes:
