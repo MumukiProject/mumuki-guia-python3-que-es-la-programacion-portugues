@@ -1,1 +1,1 @@
-Muito bem! :tada: É verdade que quando programamos podemos encontrar palavras en inglês ou outros idiomas, as linguagens de programação seguem regras completamente diferentes das regras idiomáticas. De fato, não precisamos saber falar inglês para poder programar. :raised_hands:
+Muito bem! :tada: É verdade que quando programamos podemos encontrar palavras em inglês ou em outros idiomas, porém as linguagens de programação seguem regras completamente diferentes das regras idiomáticas. Assim, não precisamos saber falar inglês para poder programar. :raised_hands:
