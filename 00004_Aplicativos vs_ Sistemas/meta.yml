@@ -8,35 +8,26 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Bloco de notas](https://pt.wikipedia.org/wiki/Bloco_de_Notas)"
+- value: "[Bloco de notas](https://pt.wikipedia.org/wiki/Bloco_de_Notas)"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Receita Federal](https://www.gov.br/receitafederal/pt-br)"
+- value: "[Receita Federal](https://www.gov.br/receitafederal/pt-br)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Instagram](https://www.instagram.com)"
+- value: "[Instagram](https://www.instagram.com)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Mercado Livre](https://www.mercadolivre.com.br/)"
+- value: "[Mercado Livre](https://www.mercadolivre.com.br/)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Decolar](https://www.decolar.com/)"
+- value: "[Decolar](https://www.decolar.com/)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Campo Minado](https://pt.wikipedia.org/wiki/Campo_minado)"
+- value: "[Campo Minado](https://pt.wikipedia.org/wiki/Campo_minado)"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Fortnite](https://www.epicgames.com/fortnite/pt-BR/home?lang=pt-BR)"
+- value: "[Fortnite](https://www.epicgames.com/fortnite/pt-BR/home?lang=pt-BR)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Minecraft](https://www.minecraft.net/pt-br)"
+- value: "[Minecraft](https://www.minecraft.net/pt-br)"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Paciência](https://pt.wikipedia.org/wiki/Paci%C3%AAncia_(jogo))"
+- value: "[Paciência](https://pt.wikipedia.org/wiki/Paci%C3%AAncia_(jogo))"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "[Mumuki](https://mumuki.io/home)"
+- value: "[Mumuki](https://mumuki.io/home)"
   checked: true
 name: Aplicativos vs. Sistemas

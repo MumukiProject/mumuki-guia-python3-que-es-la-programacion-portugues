@@ -8,20 +8,16 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Uma receita culinária.
+- value: Uma receita culinária.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: As instruções para fazer um origami.
+- value: As instruções para fazer um origami.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Os passos para resolver um cubo Rubik.
+- value: Os passos para resolver um cubo Rubik.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: A lógica das redes sociais para sugestão de contatos.
+- value: A lógica das redes sociais para sugestão de contatos.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Todas as anteriores.
+- value: Todas as anteriores.
   checked: true
 name: Algo com ritmo

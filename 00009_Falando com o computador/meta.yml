@@ -8,23 +8,18 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Português.
+- value: Português.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ruby.
+- value: Ruby.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Mozilla Firefox.
+- value: Mozilla Firefox.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Python.
+- value: Python.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Inglês.
+- value: Inglês.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Javascript.
+- value: Javascript.
   checked: true
 name: Falando com o computador
